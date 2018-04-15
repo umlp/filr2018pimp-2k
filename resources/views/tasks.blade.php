@@ -7,8 +7,8 @@
                 <div class="panel-heading">
                     New Task
                 </div>
-<p>teub <br/>
-<h1>mon gros zob</h1></p>
+
+<h1>Caro C la plus belle</h1></p>
                 <div class="panel-body">
                     <!-- Display Validation Errors -->
                     @include('common.errors')
