@@ -6,7 +6,7 @@
         <meta name="description" content="Going Dutch App" />
         <meta name="keywords" content="jquery, css3, sliding, box, menu, cube, navigation, portfolio, thumbnails"/>
 		<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon"/>
-        <link rel="stylesheet" href="filr2018pimp-2k/resources/views/layouts/css/style.css" type="text/css" media="screen"/>
+        <link rel="stylesheet" href="filr2018pimp-2k/resources/views/layouts/css/style.css.scss" type="text/css" media="screen"/>
         <style>
 			body{
 				background:#333 url(bg.jpg) repeat top left;
