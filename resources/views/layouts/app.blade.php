@@ -44,7 +44,7 @@
 			<ul id="sdt_menu" class="sdt_menu">
 				<li>
 					<a href="#">
-						<img src="images/2.jpg" alt=""/>
+						<img src=asset-image("filr2018pimp-2k/resources/views/layouts/images/2.jpg") alt=""/>
 						<span class="sdt_active"></span>
 						<span class="sdt_wrap">
 							<span class="sdt_link">Mon Compte</span>
