@@ -1,5 +1,5 @@
 
-    $(function() {
+    $(document).ready(function() {
 /**
 * for each menu element, on mouseenter,
 * we enlarge the image, and show both sdt_active span and
