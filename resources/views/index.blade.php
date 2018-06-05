@@ -7,35 +7,7 @@
         <meta name="keywords" content="jquery, css3, sliding, box, menu, cube, navigation, portfolio, thumbnails"/>
 		<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon"/>
         <link rel="stylesheet" href="css/style.css" type="text/css" media="screen"/>
-        <style>
-			body{
-				background:#333 url(bg.jpg) repeat top left;
-				font-family:Arial;
-			}
-			span.reference{
-				position:fixed;
-				left:10px;
-				bottom:10px;
-				font-size:12px;
-			}
-			span.reference a{
-				color:#aaa;
-				text-transform:uppercase;
-				text-decoration:none;
-				text-shadow:1px 1px 1px #000;
-				margin-right:30px;
-			}
-			span.reference a:hover{
-				color:#ddd;
-			}
-
-			h1.title{
-				text-indent:-9000px;
-				background:transparent url(title.png) no-repeat top left;
-				width:633px;
-				height:69px;
-			}
-		</style>
+        
     </head>
 
     <body>
