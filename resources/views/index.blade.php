@@ -53,7 +53,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="#">
+					<a href="budget.html">
 						<img src="images/3.png" alt=""/>
 						<span class="sdt_active"></span>
 						<span class="sdt_wrap">
@@ -78,7 +78,7 @@
           </div>
 				</li>
 				<li>
-					<a href="budget.html">
+					<a href="#">
 						<img src="images/4.jpg" alt=""/>
 						<span class="sdt_active"></span>
 						<span class="sdt_wrap">
