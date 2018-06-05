@@ -54,7 +54,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="budget.html">
+					<a href="https://goingdutch.herokuapp.com/budget">
 						<img src="images/3.png" alt=""/>
 						<span class="sdt_active"></span>
 						<span class="sdt_wrap">
